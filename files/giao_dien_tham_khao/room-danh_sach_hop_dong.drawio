@@ -1,0 +1,109 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="hKMse3rS_3tsQoRzM1DD">
+    <mxGraphModel dx="1030" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iwOd_1NU6Rxk32wUSqzm-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="485" width="320" x="40" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iwOd_1NU6Rxk32wUSqzm-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="HEADER" vertex="1">
+          <mxGeometry height="40" width="320" x="40" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iwOd_1NU6Rxk32wUSqzm-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="40" width="320" x="40" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iwOd_1NU6Rxk32wUSqzm-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&amp;nbsp; &amp;lt;==" vertex="1">
+          <mxGeometry height="30" width="60" x="40" y="85" as="geometry" />
+        </mxCell>
+        <mxCell id="iwOd_1NU6Rxk32wUSqzm-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;A1006 - Danh sách hợp đồng&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="210" x="100" y="85" as="geometry" />
+        </mxCell>
+        <mxCell id="iwOd_1NU6Rxk32wUSqzm-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" value="" vertex="1">
+          <mxGeometry height="135" width="320" x="40" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="iwOd_1NU6Rxk32wUSqzm-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&amp;nbsp; Mã HĐ: &lt;b&gt;HD25467&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="40" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="iwOd_1NU6Rxk32wUSqzm-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&amp;nbsp; Trạng thái: &lt;b&gt;Đang có hiệu lực&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="190" x="40" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="iwOd_1NU6Rxk32wUSqzm-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&amp;nbsp; Ngày lập: &lt;b&gt;22 / 10 / 2026&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="140" x="40" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="iwOd_1NU6Rxk32wUSqzm-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&amp;nbsp; Phòng: &lt;b&gt;A1006&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="95" x="260" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="iwOd_1NU6Rxk32wUSqzm-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&amp;nbsp; Khách hàng: &lt;b&gt;Lê Văn Tâm&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="190" x="40" y="215" as="geometry" />
+        </mxCell>
+        <mxCell id="iwOd_1NU6Rxk32wUSqzm-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&amp;nbsp; Loại hợp đồng: &lt;b&gt;Online&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="220" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="iwOd_1NU6Rxk32wUSqzm-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" value="" vertex="1">
+          <mxGeometry height="135" width="320" x="40" y="255" as="geometry" />
+        </mxCell>
+        <mxCell id="iwOd_1NU6Rxk32wUSqzm-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&amp;nbsp; Mã HĐ: &lt;b&gt;HD25467&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="40" y="255" as="geometry" />
+        </mxCell>
+        <mxCell id="iwOd_1NU6Rxk32wUSqzm-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&amp;nbsp; Trạng thái: &lt;b&gt;Đã hủy&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="190" x="40" y="315" as="geometry" />
+        </mxCell>
+        <mxCell id="iwOd_1NU6Rxk32wUSqzm-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&amp;nbsp; Ngày lập: &lt;b&gt;22 / 10 / 2026&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="140" x="40" y="285" as="geometry" />
+        </mxCell>
+        <mxCell id="iwOd_1NU6Rxk32wUSqzm-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&amp;nbsp; Phòng: &lt;b&gt;A1006&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="95" x="260" y="255" as="geometry" />
+        </mxCell>
+        <mxCell id="iwOd_1NU6Rxk32wUSqzm-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&amp;nbsp; Khách hàng: &lt;b&gt;Lê Văn Tâm&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="190" x="40" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="iwOd_1NU6Rxk32wUSqzm-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&amp;nbsp; Loại hợp đồng: &lt;b&gt;Online&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="220" y="285" as="geometry" />
+        </mxCell>
+        <mxCell id="iwOd_1NU6Rxk32wUSqzm-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" value="" vertex="1">
+          <mxGeometry height="135" width="320" x="40" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="iwOd_1NU6Rxk32wUSqzm-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&amp;nbsp; Mã HĐ: &lt;b&gt;HD25467&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="40" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="iwOd_1NU6Rxk32wUSqzm-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&amp;nbsp; Trạng thái: &lt;b&gt;Chưa có hiệu lực&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="190" x="40" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="iwOd_1NU6Rxk32wUSqzm-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&amp;nbsp; Ngày lập: &lt;b&gt;22 / 10 / 2026&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="140" x="40" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="iwOd_1NU6Rxk32wUSqzm-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&amp;nbsp; Phòng: &lt;b&gt;A1006&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="95" x="260" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="iwOd_1NU6Rxk32wUSqzm-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&amp;nbsp; Khách hàng: &lt;b&gt;Lê Văn Tâm&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="190" x="40" y="485" as="geometry" />
+        </mxCell>
+        <mxCell id="iwOd_1NU6Rxk32wUSqzm-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&amp;nbsp; Loại hợp đồng: &lt;b&gt;Online&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="220" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="iwOd_1NU6Rxk32wUSqzm-28" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="+" vertex="1">
+          <mxGeometry height="60" width="60" x="290" y="455" as="geometry" />
+        </mxCell>
+        <mxCell id="iwOd_1NU6Rxk32wUSqzm-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="175" width="320" x="440" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iwOd_1NU6Rxk32wUSqzm-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="40" width="320" x="440" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iwOd_1NU6Rxk32wUSqzm-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&amp;nbsp; &amp;lt;==" vertex="1">
+          <mxGeometry height="30" width="60" x="440" y="85" as="geometry" />
+        </mxCell>
+        <mxCell id="iwOd_1NU6Rxk32wUSqzm-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;A1006 - Danh sách hợp đồng&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="210" x="500" y="85" as="geometry" />
+        </mxCell>
+        <mxCell id="iwOd_1NU6Rxk32wUSqzm-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Hiện chưa có hợp đồng nào cho phòng này! Nhấp vào bên dưới để thêm mới hợp đồng!" vertex="1">
+          <mxGeometry height="45.5" width="280" x="450" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="iwOd_1NU6Rxk32wUSqzm-34" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="+" vertex="1">
+          <mxGeometry height="60" width="60" x="690" y="185" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

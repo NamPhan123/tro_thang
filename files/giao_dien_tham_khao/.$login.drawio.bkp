@@ -1,0 +1,64 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="6fbbue-dltrCIQtM_bEn">
+    <mxGraphModel dx="1030" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3C22eGibAYG9hfECTQ7y-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="250" width="360" x="200" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3C22eGibAYG9hfECTQ7y-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;h2&gt;&lt;b&gt;Đăng nhập&lt;/b&gt;&lt;/h2&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="215" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="3C22eGibAYG9hfECTQ7y-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Tên đăng nhập:" vertex="1">
+          <mxGeometry height="30" width="240" x="220" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="3C22eGibAYG9hfECTQ7y-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="30" width="320" x="220" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="3C22eGibAYG9hfECTQ7y-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: light-dark(rgb(32, 46, 238), rgb(237, 237, 237));&quot;&gt;Đăng ký&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="445" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="3C22eGibAYG9hfECTQ7y-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Mật khẩu:" vertex="1">
+          <mxGeometry height="30" width="240" x="220" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="3C22eGibAYG9hfECTQ7y-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="30" width="320" x="220" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="3C22eGibAYG9hfECTQ7y-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Đăng nhập" vertex="1">
+          <mxGeometry height="30" width="100" x="440" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="3C22eGibAYG9hfECTQ7y-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: light-dark(rgb(32, 46, 238), rgb(237, 237, 237));&quot;&gt;Quên mật khẩu?&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="220" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="3C22eGibAYG9hfECTQ7y-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="130" width="360" x="200" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="3C22eGibAYG9hfECTQ7y-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Thông báo&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="125" x="207.5" y="404" as="geometry" />
+        </mxCell>
+        <mxCell id="3C22eGibAYG9hfECTQ7y-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Một mật khẩu mới sẽ được gửi đến địa chỉ gmail: xxx của bạn. Vui lòng chọn &quot;Đồng ý&quot; để lấy mật khẩu mới!" vertex="1">
+          <mxGeometry height="56" width="320" x="215" y="434" as="geometry" />
+        </mxCell>
+        <mxCell id="3C22eGibAYG9hfECTQ7y-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Đồng ý" vertex="1">
+          <mxGeometry height="30" width="100" x="445" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="3C22eGibAYG9hfECTQ7y-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Quay lại" vertex="1">
+          <mxGeometry height="30" width="100" x="330" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="3C22eGibAYG9hfECTQ7y-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="110" width="360" x="200" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="3C22eGibAYG9hfECTQ7y-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Thông báo&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="125" x="207.5" y="606" as="geometry" />
+        </mxCell>
+        <mxCell id="3C22eGibAYG9hfECTQ7y-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Vui lòng truy cập gmail xxx của bạn để lấy mật khẩu mới!" vertex="1">
+          <mxGeometry height="30" width="320" x="215" y="636" as="geometry" />
+        </mxCell>
+        <mxCell id="3C22eGibAYG9hfECTQ7y-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Đóng" vertex="1">
+          <mxGeometry height="30" width="100" x="425" y="666" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
