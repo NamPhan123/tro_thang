@@ -1,0 +1,6 @@
+2. Thành phần thông báo kết quả đăng ký
+URL: Không cần URL riêng; hiển thị trên page /manage_area/register.
+Trạng thái cần có:
+Đăng ký thành công.
+Đăng ký không thành công, kèm thông báo lỗi phù hợp nếu có.
+Có nút đóng hoặc ẩn thông báo nếu cần; không tự điều hướng sang luồng khác khi mô tả chưa quy định.

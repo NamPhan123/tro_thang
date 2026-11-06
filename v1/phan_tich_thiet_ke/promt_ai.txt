@@ -1,0 +1,8 @@
+1. Promt tạo các trang cụ thể cho một chức năng bằng AI
+Tôi cần bạn liệt kê danh sách các page cần thiết cho chức năng như mô tả bên dưới:
+- Ghi chú:
++ Mỗi page nên có: URL (đường dẫn), dạng /manage_area/...
++ Các thành phần chi tiết của page để đảm bảo thực hiện được chức năng.
++ Chỉ làm đúng mô tả, không tự ý thêm các bước, các luồng không có trong mô tả.
+- Nội dung:
+
